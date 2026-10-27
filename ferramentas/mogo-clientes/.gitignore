@@ -1,0 +1,5 @@
+# Planilhas exportadas contem dados pessoais de clientes (LGPD) - nunca versionar
+saida/
+*.xlsx
+*.csv
+state.json
